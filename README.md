@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**nikhilsahu07/nikhilsahu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on socialCoding...
 - 🌱 I’m currently learning ...Javascript, git & github...
 - 👯 I’m looking to collaborate with people of same interst...
